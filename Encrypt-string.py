@@ -1,5 +1,5 @@
 st = input("Enter your simple string:")
-key = int(input("Enter your key:"));
+key = int(input("Enter your key:"))
 rs = []
 if key < 0 :
     print("INVALID INPUT")
